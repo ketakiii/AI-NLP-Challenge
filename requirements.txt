@@ -1,0 +1,5 @@
+numpy
+tensorflow
+urllib
+typing
+pickle
