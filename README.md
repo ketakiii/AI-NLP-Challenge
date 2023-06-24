@@ -1,6 +1,7 @@
 # AI-NLP-Challenge
 
 Problem Statement
+
 Implement a deep learning model that learns to expand single variable polynomials, where the model takes the factorized sequence as input and predicts the expanded sequence. This is an exercise to demonstrate your machine-learning prowess, so please refrain from parsing or rule-based methods.
 
 A training file is provided in S3:
