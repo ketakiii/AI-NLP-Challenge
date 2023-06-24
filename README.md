@@ -1,6 +1,6 @@
 # AI-NLP-Challenge
 
-#Problem Statement
+**Problem Statement**
 
 Implement a deep learning model that learns to expand single variable polynomials, where the model takes the factorized sequence as input and predicts the expanded sequence. This is an exercise to demonstrate your machine-learning prowess, so please refrain from parsing or rule-based methods.
 
@@ -18,7 +18,7 @@ Reference link: https://keras.io/examples/nlp/lstm_seq2seq/
 
 Character level recurrent sequence to sequence model: Encoder-Decoder Architecture
 
-#Summary of the algorithm
+**Summary of the algorithm**
 
 We start with input sequences from a domain and corresponding target sequences from another domain.
 An encoder LSTM turns input sequences into 2 state vectors (we keep the last LSTM state and discard the outputs).
